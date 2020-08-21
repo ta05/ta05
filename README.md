@@ -3,7 +3,10 @@
 <!-- **ta05/ta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-### Why the 05? because 10 was taken 
+### Why the 05? because 10 was taken
+
+
+### I'm a Software Engineer, Analyst, Gym Rat and Game Enthusiast
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning analytics tools in Python
