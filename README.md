@@ -35,7 +35,16 @@
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
+<br/>
 
+### GitHub Stats
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.ta05.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 
 [github]: https://github.com/ta05
 [linkedin]: https://www.linkedin.com/in/tolu-alimi-1a54161a1/
