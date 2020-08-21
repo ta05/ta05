@@ -1,7 +1,6 @@
 ### It's ta05 (Tolu Alimi)
 
-<!--
-**ta05/ta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ta05/ta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Why the 05? because 10 was taken 
 
@@ -11,4 +10,17 @@
 - 💬 Ask me about Disney movies
 - 😄 Favorite Quote: "Take Chances. Make Mistakes. Get Messy." - Ms. Frizzle
 - ⚡ Not so Fun fact: I dislike seafood, but my goal is to get it to be tolerable
--->
+
+### Connect with me
+
+[<img align="left" alt="Tolu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Tolu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][linkedin]
+
+### Languages and Tools
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+
+
+
+[github]: https://github.com/ta05
+[linkedin]: https://www.linkedin.com/in/tolu-alimi-1a54161a1/
