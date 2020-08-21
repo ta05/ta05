@@ -11,16 +11,11 @@
 - 👯 I’m looking to collaborate on tools for fantasy basketball
 - 💬 Ask me about Disney movies
 - 😄 Favorite Quote: "Take Chances. Make Mistakes. Get Messy." - Ms. Frizzle
-- ⚡ Not so Fun fact: I dislike seafood, but my goal is to get it to be tolerable
+- ⚡ Not So Fun Fact: I dislike seafood, but my goal is to be able to tolerate it.
+
 
 <br/>
 
-### Connect with me
-
-[<img align="left" alt="Tolu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Tolu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
 
 ### Languages and Tools
 
@@ -36,6 +31,15 @@
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 <br/>
+
+
+### Connect with me
+
+[<img align="left" alt="Tolu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Tolu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
 
 ### GitHub Stats
 
