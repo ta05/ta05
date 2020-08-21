@@ -13,6 +13,7 @@
 - 😄 Favorite Quote: "Take Chances. Make Mistakes. Get Messy." - Ms. Frizzle
 - ⚡ Not so Fun fact: I dislike seafood, but my goal is to get it to be tolerable
 
+<br/>
 
 ### Connect with me
 
