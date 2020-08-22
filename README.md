@@ -13,7 +13,7 @@
 - ⚡ Not So Fun Fact: I dislike seafood, but my goal is to be able to tolerate it.
 
 
-<br/>
+<br/><br/>
 
 
 ### Languages and Tools
@@ -29,7 +29,7 @@
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
-<br/>
+<br/><br/>
 
 
 ### Connect with me
@@ -37,7 +37,7 @@
 [<img align="left" alt="Tolu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Tolu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/>
+<br/><br/>
 
 
 ### GitHub Stats
