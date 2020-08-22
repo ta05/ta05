@@ -13,7 +13,7 @@
 - ⚡ Not So Fun Fact: I dislike seafood, but my goal is to be able to tolerate it.
 
 
-<br/><br/>
+<br/>
 
 
 ### Languages and Tools
