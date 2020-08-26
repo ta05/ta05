@@ -6,7 +6,7 @@
 ### I'm a Software Engineer, Analyst, Gym Rat and Game Enthusiast
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning analytics tools in Python
+- 🌱 I’m currently learning Machine Learning and Tensor Flow
 - 👯 I’m looking to collaborate on tools for fantasy basketball
 - 💬 Ask me about Disney movies
 - 😄 Favorite Quote: "Take Chances. Make Mistakes. Get Messy." - Ms. Frizzle
