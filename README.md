@@ -5,7 +5,7 @@
 
 ### I'm a Software Engineer, Analyst, Gym Rat and Game Enthusiast
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Machine Learning and Tensor Flow
 - 👯 I’m looking to collaborate on tools for fantasy basketball
 - 💬 Ask me about Disney movies, brainteasers or ethics in medicine
