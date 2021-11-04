@@ -5,8 +5,8 @@
 
 ### I'm a Software Engineer, Analyst, Gym Rat and Game Enthusiast
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on making websites
+- 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on tools for fantasy basketball
 - 💬 Ask me about Disney movies, brainteasers or ethics in medicine
 - 😄 Favorite Quote: "Take Chances. Make Mistakes. Get Messy." - Ms. Frizzle
@@ -20,6 +20,8 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
