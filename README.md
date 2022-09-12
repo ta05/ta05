@@ -36,8 +36,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="Tolu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-<!--([<img align="left" alt="Tolu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin])-->
+[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br/><br/>
 
@@ -52,4 +51,3 @@
 </details>
 
 [github]: https://github.com/ta05
-[linkedin]: https://www.linkedin.com/in/tolu-alimi-1a54161a1/
