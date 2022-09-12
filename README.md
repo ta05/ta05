@@ -41,13 +41,13 @@
 <br/><br/>
 
 
-### GitHub Stats
+<!--### GitHub Stats
 
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="ta05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ta05&show_icons=true&hide_border=true" />
 
-</details>
+</details>-->
 
 [github]: https://github.com/ta05
