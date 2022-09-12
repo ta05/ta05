@@ -1,4 +1,4 @@
-### Hey, it's ta05 (Tolu Alimi). Why the 05? Because 10 was taken.
+### Hey, it's ta05. Why the 05? Because 10 was taken.
 
 <!-- **ta05/ta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <br/>
