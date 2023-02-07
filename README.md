@@ -1,9 +1,9 @@
-### Hey, it's ta05. Why the 05? Because 10 was taken.
+### Hey, it's Tolu.
 
 <!-- **ta05/ta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <br/>
 
-### I'm a Software Engineer, Gym Rat and Game Enthusiast
+### I'm a Software Engineer
 
 - 🔭 I’m currently working on making websites
 - 🌱 I’m currently learning machine learning
