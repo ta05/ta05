@@ -5,12 +5,8 @@
 
 ### I'm a Software Engineer
 
-- 🔭 I’m currently working on making websites
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on tools for fantasy basketball
-- 💬 Ask me about Disney movies, brainteasers or ethics in medicine
-- 😄 Favorite Quote: "Take Chances. Make Mistakes. Get Messy." - Ms. Frizzle
-- ⚡ Not So Fun Fact: I dislike seafood, but my goal is to be able to tolerate it
+
+**"Take Chances. Make Mistakes. Get Messy." - Ms. Frizzle**
 
 
 <br/>
