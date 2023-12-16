@@ -1,10 +1,5 @@
-### Hey, it's Tolu.
-
 <!-- **ta05/ta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <br/>
-
-
-**"Take Chances. Make Mistakes. Get Messy." - Ms. Frizzle**
 
 
 <br/>
