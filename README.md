@@ -1,6 +1,6 @@
 <!-- **ta05/ta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Languages and Tools
+<h2 align="center">Languages and Tools</h2>
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-### GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <details>
   <summary>:zap: Github Stats</summary>
