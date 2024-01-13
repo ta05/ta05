@@ -20,7 +20,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img align="left" alt="ta05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ta05&theme=radical&show_icons=true&hide_border=true" />
+  <img alt="ta05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ta05&theme=radical&show_icons=true&hide_border=true" />
 </div>
 
   <div align="center">
