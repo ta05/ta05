@@ -3,7 +3,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,go,html,css,js,ts,nodejs,react,angular,django,jupyter" alt="Languages and Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,go,html,css,js,ts,nodejs,react,angular,django,mysql,sqlite,mongodb,aws,latex" alt="Languages and Tools Icons"/>
 </div>
 
 <br/><br/>
