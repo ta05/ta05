@@ -39,5 +39,5 @@
 <br/>
 
   <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ta05&custom_title=GitHub%20Activity%20Graph&bg_color=000000&color=9f4bff&line=626069&point=ffffff&area_color=FE428E&title_color=9745f5&area=true" alt="Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ta05&custom_title=GitHub%20Activity%20Graph&bg_color=000000&color=ffffff&line=626069&point=ffffff&area_color=9f4bff&title_color=9745f5&area=true" alt="Github Activity Graph" width="100%">
 </div>
