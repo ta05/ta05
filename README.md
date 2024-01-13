@@ -37,6 +37,10 @@
 
   <img align="left" alt="ta05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ta05&show_icons=true&hide_border=true" />
 
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ta05&custom_title=GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Github Activity Graph" width="100%">
+</div>
+
 </details>-->
 
 [github]: https://github.com/ta05
