@@ -4,6 +4,21 @@
   <a href="https://github.com/ta05/VarsityTutors" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ta05&theme=radical&repo=VarsityTutors" width="49%" alt="Varsity Tutors"/>
   </a>
+  <a href="https://github.com/ta05/Machine-Learning-Projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ta05&theme=radical&repo=Machine-Learning-Projects" width="49%" alt="Machine Learning Projects"/>
+  </a>
+  <a href="https://github.com/mcraepv/Salud" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcraepv&theme=radical&repo=Salud" width="49%" alt="Salud!"/>
+  </a>
+  <a href="https://github.com/ta05/Deal-Or-No-Deal" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ta05&theme=radical&repo=Deal-Or-No-Deal" width="49%" alt="Deal Or No Deal"/>
+  </a>
+  <a href="https://github.com/ramong06/inside-job" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramong06&theme=radical&repo=Inside-Job" width="49%" alt="Inside Job"/>
+  </a>
+  <a href="https://github.com/ta05/expense-tracker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ta05&theme=radical&repo=expense-tracker" width="49%" alt="Expense Tracker"/>
+  </a>
 </div>
 <br/><br/>
 
