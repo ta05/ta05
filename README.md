@@ -33,7 +33,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img alt="ta05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ta05&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+  <img alt="ta05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ta05&theme=midnight-purple&show_icons=true&count_private=true" />
 </div>
 
 <br/>
