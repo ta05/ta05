@@ -16,8 +16,8 @@
   <a href="https://github.com/ramong06/inside-job" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramong06&theme=midnight-purple&repo=Inside-Job" width="49%" alt="Inside Job"/>
   </a>
-  <a href="https://github.com/ta05/expense-tracker" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ta05&theme=midnight-purple&repo=expense-tracker" width="49%" alt="Expense Tracker"/>
+  <a href="https://github.com/ta05/ChinDash" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ta05&theme=midnight-purple&repo=expense-tracker" width="49%" alt="ChinDash"/>
   </a>
 </div>
 <br/><br/>
