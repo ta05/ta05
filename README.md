@@ -17,7 +17,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramong06&theme=midnight-purple&repo=Inside-Job" width="49%" alt="Inside Job"/>
   </a>
   <a href="https://github.com/ta05/ChinDash" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ta05&theme=midnight-purple&repo=expense-tracker" width="49%" alt="ChinDash"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ta05&theme=midnight-purple&repo=ChinDash" width="49%" alt="ChinDash"/>
   </a>
 </div>
 <br/><br/>
